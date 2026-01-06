@@ -6,6 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## My Links
+- WANDB Report: https://wandb.ai/landanhg-na/nyc_airbnb/reports/Udacity-MLOps-Project--VmlldzoxNTU0OTg1NA?accessToken=t7a258fmwjzvr17e0o4bgt7todinxkaazj796rs3po2ck5zn2r571ym0ro3vjq4v
+- Lineage graph: https://drive.google.com/file/d/13Mn1P-JovMcnF35GcMjfi6lCehReOvz3/view?usp=sharing
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
